@@ -1,1 +1,1 @@
-https://github.com/AsSneg/ono-tebe-nado
+git@github.com:AsSneg/ono-tebe-nado.git
